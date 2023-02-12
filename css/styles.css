@@ -117,3 +117,12 @@ h1 {
 
         padding: 3% 15%;
     }
+
+    #pricing{
+        padding: 100px;
+        text-align: center;
+    }
+    .pricing-comlumn {
+        padding: 3% 2%;
+
+    }
